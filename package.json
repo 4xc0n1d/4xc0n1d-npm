@@ -1,0 +1,22 @@
+{
+  "name": "@web-dev-simplified/is-wds",
+  "version": "1.0.0",
+  "description": "File NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4xc0n1d/axcon-npm.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "axcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4xc0n1d/axcon-npm/issues"
+  },
+  "homepage": "https://github.com/4xc0n1d/4xc0n1d-npm/blob/main/README.md#4xc0n1d-npm"
+}
